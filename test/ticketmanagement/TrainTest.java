@@ -120,7 +120,7 @@ public class TrainTest {
 };
         String expResult = "Platform Number: S22, Interstate Terminal: BOM, Time: 22:20";
         String result = instance.toString();
-        assertEquals(expResult, result);
+        assertEquals(expResult,result );
         
     }
 
