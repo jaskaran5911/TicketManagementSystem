@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Navdeep
+ * @author Aamir
  */
 public class TrainTest {
     String PlatForm, InterState, Time;
